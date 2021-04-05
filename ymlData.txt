@@ -1374,7 +1374,4 @@
   - Europe
 - - Dolphins use a sense, similar to sonar, to determine the location and shape of
     nearby items.
-
-
-
-
+  - Echolocation
