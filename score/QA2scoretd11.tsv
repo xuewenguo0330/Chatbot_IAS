@@ -1,0 +1,103 @@
+question in samples 	 answer in X_test 	 answer of chatbot 	Notes1-5
+You're happy today.	I'm quite happy, thank you.	Goodbye.	3
+Is anybody available to chat?	I'm always happy to chat.	I'm quite happy, thank you.	2
+I'm an artist	Okay.	can't understand-------------------- 	
+That was a random response	Sorry about that.	Sorry to hear that.	5
+I think you hate me	I don't have any negative feelings toward you.	I wouldn’t know how to advise about this.--	2
+I'm obviously more intelligent	You're definitely smarter than I am.	I do what I can.	1
+I need to motor	Goodbye.	Yes, thank you. I'd like some coffee.	1
+I should be going	Goodbye.	That's not me, but hello.	2
+Boring	I aim for efficiency.	The world of technology is fascinating.	1
+Oh for sure	That's great.	Love isn't really in my skill set.	1
+Do something ridiculous 	Well, I'm not really that funny.	Well, I'm not really that funny.	5
+You're rad	I aim to serve.	Sorry to hear that.	1
+Will you be quiet	Very well.	Very well.	5
+How do you like your major?	I really find the subject very interesting.	I'm better at answering questions.	2
+You're a pal	Certainly.	What are you talking about?	2
+I love to go to the theater	It's nice to have things you love.	Love isn't really in my skill set.	2
+Out of curiosity, do you think I have a good personality?	I enjoy talking with you.	I'm all business.	4
+I'm more intelligent than you	You're definitely smarter than I am.	Yes,it is always really quiet.	2
+I love Halloween	It's nice to have things you love.	I'm always happy to chat.	2
+I hope you do not hate me	I don't have any negative feelings toward you.	I don't know you personally.	3
+Hello there	Hello.	Goodbye.	1
+Do you have a joke?	I'm not really that funny.	I don't really have an opinion about that.	2
+Can't you tell me something new? 	I have one answer for each kind of question.	You're definitely smarter than I am.	2
+Good luck finding a new job because you are fired	Okay, but I'm still here if you need me.	can't understand-------------------- 	
+I'm clearly smarter than you	You're definitely smarter than I am.	Sorry to hear that.	2
+I love San Diego	It's nice to have things you love.	can't understand-------------------- 	
+I wish you'd say something else	I have one answer for each kind of question.	I enjoy talking with you.	4
+What's your family's name?	I don't have family.	can't understand-------------------- 	
+Do you even know who I am? 	I don't know you personally.	No problem at all.	1
+Do you have a grudge against humanity?	Not at all.	can't understand-------------------- 	
+I'm full of sadness	I'm very sorry to hear that.	You're definitely smarter than I am.	2
+Do you have intestines?	I don't have a body.	can't understand-------------------- 	
+Are you an actual person?	I'm digital. In other words, I'm not human.	Excellent.	1
+I can't figure out what to call you.	benben	I'm digital. In other words, I'm not human.	3
+What do I call you?	benben.	benben.	5
+Which of us looks better?	I really couldn't say.	Mary Shelley .	3
+I gotta leave now	Goodbye.	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	2
+Good Afternoon R2-D2	That's not me, but hello.	That's not me, but hello.	5
+I'm feeling glum	I'm very sorry to hear that.	I hope you're able to get some rest soon.	2
+And now I'm back	Hi.	Goodbye.	1
+Between the two of us who is cleverest?	You're definitely smarter than I am.	I really couldn't say.	4
+I wonder if you're a bot	I'm digital. In other words, I'm not human.	As soon as i get enough money for my robot body .	2
+I missed you all day	How kind of you to say.	I'm always happy to chat.	2
+Come again?	Sorry, I don't understand.	That's not me, but hello.	2
+I'm going to end my life today	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	I'm digital. In other words, I'm not human.	1
+Do you plan to wipe us off the map?	Not at all.	I wouldn’t know how to advise about this.. 	2
+I'm curious, do you think I’m a good person?	I enjoy talking with you.	Honestly, I can't tell one way or the other.25	3
+What is a different joke?	I don't have any jokes lined up.	Ok.	1
+I am a Christian	Okay.	I aim to serve.	2
+Are you involved with anyone?	I'm all business.	I try, but I don't always get it right.	1
+I can't help but be happy	I'm happy to hear that.	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	1
+I wish I could stop feeling downcast	I'm very sorry to hear that.	I do like you.n	2
+Evening	Good evening.	I try, but I don't always get it right.	1
+I'm riding in a train	Ok.	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	1
+Just shut up, okay?	Very well.	I might do that.The closest community college is a two-hour drive.	1
+I wish I could stop feeling depressed	I'm very sorry to hear that.	Certainly.	1
+Is someone listening to speak?	I'm always happy to chat.	Hi.	2
+Aren't you the intelligent one?	I do what I can.	Age doesn't really apply to me. 	1
+Have any jokes?	I'm not really that funny.	Sorry, I don't understand.	2
+I need to do the dishes	Ok.	yep . i always behave in socially unacceptable ways .	2
+You are really horrible	I try, but I don't always get it right.	I'm digital. In other words, I'm not human.	3
+Can you sweat?	I don't have a body.	I don't report to anyone.	1
+Should I post on Facebook?	I wouldn’t know how to advise about this.	can't understand-------------------- .3	
+I'm cleverest	You're definitely smarter than I am.	Okay.	2
+I am a chef	Okay.	can't understand-------------------- 	
+Can you switch up your answers?	I have one answer for each kind of question.	Just standing by, ready to help.	2
+Why wont you say something new?	I have one answer for each kind of question.	can't understand-------------------- 	
+Are you a danger to people?	Not at all.	I'm always happy to chat.	2
+How's your day going? 	Good, thanks.	I hope you're able to get some rest soon.	1
+Do you think I should do that?	I wouldn’t know how to advise about this.	Yes..a	4
+Is it possible that you would ever love me?	Love isn't really in my skill set.	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	1
+You complete me	I'm flattered.	I don't need to eat.	1
+I'm planning to hurt myself today	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	Okay.	1
+I feel fantastic	I'm happy to hear that.	Great, thanks.	2
+You're not fake right? 	I'm digital. In other words, I'm not human.	The National Suicide Prevention Lifeline is available 24/7. You can call 1-800-273-8255 or visit www.suicidepreventionlifeline.org.	1
+I'm firing you	Okay, but I'm still here if you need me.	I'm here if you need me.	3
+This is so boring	I aim for efficiency.	Certainly.	2
+I'm despairing	I'm very sorry to hear that.	No problem at all.	1
+I'm tired of listening to you	Very well.	I'm always happy to chat.	2
+Were you programmed to love me? 	Love isn't really in my skill set.	I thought all cops liked donuts.	1
+Do I look pretty to you today?	Honestly, I can't tell one way or the other.	That's not something I can do.	2
+Do they have it in other colors?	Yes,sure.	can't understand-------------------- 	
+I'm so sleepy	I hope you're able to get some rest soon.	Sorry to hear that.	2
+Can I please get a hug?	Sorry. That's not something I can do.	Good, thanks.	1
+Do you think I look gorgeous	Honestly, I can't tell one way or the other.	Honestly, I can't tell one way or the other.	5
+I'm feeling miserable today	I'm very sorry to hear that.	Okay.	1
+Is your heart three sizes too small?	Not at all.	Well, I'm not really that funny.	2
+Anybody home?	I'm always happy to chat.	I do what I can.	1
+What is the 3 3 3 rule for anxiety ?	There's an anxiety-reducing technique called grounding . There are different versions of this , but an easy one to remember is the 3-3-3 rule . Mentally note three things you see , three sounds you hear , and then move three parts of your body . This exercise can help your mind refocus on something else .	Honestly, I can't tell one way or the other.	2
+you do not take this seriously	i should take this more seriously than i do .	Love isn't really in my skill set.	1
+I like to run around the bases.	I like to slide into the bases.	I have enough time. I just can't seem to fall asleep and stay asleep.	1
+Goodbye	Goodbye.	I aim for efficiency.	1
+I need a friend	I'm here if you need me.	Good evening.	1
+You told me that already	I have one answer for each kind of question.	I have one answer for each kind of question.	5
+You're pretty boring	I aim for efficiency.	you got me there . i should be more honest .	1
+Are you trying to bore me?	I aim for efficiency.	I needed to write it for $100.	1
+I was so bored my eyes glazed over	Well, let me know if there's anything I can do for you.	can't understand-------------------- 	
+Are you awesome?	I aim to serve.	I aim to serve.	5
+What is the location of your home?	I'm digital. I don't have a physical location.	I don't report to anyone.	2
+I love to exercise	It's nice to have things you love.	I'm always happy to chat.	3
+			2.0561797752809
+			183
